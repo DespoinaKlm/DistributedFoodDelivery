@@ -1,0 +1,13 @@
+cd src
+cd com
+cd fooddelivery
+cd client
+rm *.class
+cd ..
+cd common
+rm *.class
+cd ..
+cd core
+rm *.class
+cd ..
+cd ..

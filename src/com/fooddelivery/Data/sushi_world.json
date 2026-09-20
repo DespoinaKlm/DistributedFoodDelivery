@@ -1,0 +1,24 @@
+{
+    "StoreName": "SushiWorld",
+    "Latitude": 37.9762,
+    "Longitude": 23.7257,
+    "FoodCategory": "sushi",
+    "Stars": 5,
+    "NoOfVotes": 140,
+    "StoreLogo": "/path/to/logo/sushi.png",
+    "Products": [
+      {
+        "ProductName": "salmon nigiri",
+        "ProductType": "sushi",
+        "AvailableAmount": 50,
+        "Price": 30.2
+      },
+      {
+        "ProductName": "miso soup",
+        "ProductType": "starter",
+        "AvailableAmount": 80,
+        "Price": 20.0
+      }
+    ]
+  }
+  

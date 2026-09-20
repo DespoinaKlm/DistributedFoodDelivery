@@ -1,0 +1,23 @@
+{
+    "StoreName": "BurgerHub",
+    "Latitude": 37.9955,
+    "Longitude": 23.7355,
+    "FoodCategory": "burgers",
+    "Stars": 3,
+    "NoOfVotes": 10,
+    "StoreLogo": "/path/to/logo/burger.png",
+    "Products": [
+      {
+        "ProductName": "cheeseburger",
+        "ProductType": "burger",
+        "AvailableAmount": 80,
+        "Price": 6.0
+      },
+      {
+        "ProductName": "fries",
+        "ProductType": "side",
+        "AvailableAmount": 150,
+        "Price": 2.5
+      }
+    ]
+  }

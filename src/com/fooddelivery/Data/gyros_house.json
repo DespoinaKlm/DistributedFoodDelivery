@@ -1,0 +1,24 @@
+{
+    "StoreName": "GyrosHouse",
+    "Latitude": 37.9810,
+    "Longitude": 23.7285,
+    "FoodCategory": "greek",
+    "Stars": 4,
+    "NoOfVotes": 97,
+    "StoreLogo": "/path/to/logo/gyros.png",
+    "Products": [
+      {
+        "ProductName": "pork gyros",
+        "ProductType": "wrap",
+        "AvailableAmount": 120,
+        "Price": 3.8
+      },
+      {
+        "ProductName": "tzatziki",
+        "ProductType": "dip",
+        "AvailableAmount": 60,
+        "Price": 1.2
+      }
+    ]
+  }
+  

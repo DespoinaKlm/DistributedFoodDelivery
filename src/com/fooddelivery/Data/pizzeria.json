@@ -1,0 +1,23 @@
+{
+    "StoreName": "PizzaPlace",
+    "Latitude": 37.9930,
+    "Longitude": 23.7330,
+    "FoodCategory": "pizzeria",
+    "Stars": 4,
+    "NoOfVotes": 25,
+    "StoreLogo": "/path/to/logo/pizza.png",
+    "Products": [
+      {
+        "ProductName": "margarita",
+        "ProductType": "pizza",
+        "AvailableAmount": 100,
+        "Price": 8.5
+      },
+      {
+        "ProductName": "coke",
+        "ProductType": "drink",
+        "AvailableAmount": 200,
+        "Price": 1.5
+      }
+    ]
+  }

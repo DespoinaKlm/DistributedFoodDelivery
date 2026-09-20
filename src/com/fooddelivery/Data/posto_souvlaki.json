@@ -1,0 +1,60 @@
+{
+    "StoreName": "Posto Souvlaki",
+    "Latitude": 37.9763,
+    "Longitude": 23.7361,
+    "FoodCategory": "greek",
+    "Stars": 4.8,
+    "NoOfVotes": 245,
+    "StoreLogo": "/path/to/logo/posto_souvlaki.png",
+    "Products": [
+      {
+        "ProductName": "gyros pork",
+        "ProductType": "main",
+        "AvailableAmount": 75,
+        "Price": 5.5
+      },
+      {
+        "ProductName": "gyros chicken",
+        "ProductType": "main",
+        "AvailableAmount": 60,
+        "Price": 5.5
+      },
+      {
+        "ProductName": "souvlaki pork",
+        "ProductType": "main",
+        "AvailableAmount": 80,
+        "Price": 1.8
+      },
+      {
+        "ProductName": "souvlaki chicken",
+        "ProductType": "main",
+        "AvailableAmount": 70,
+        "Price": 1.9
+      },
+      {
+        "ProductName": "pita bread",
+        "ProductType": "side",
+        "AvailableAmount": 200,
+        "Price": 0.6
+      },
+      {
+        "ProductName": "tzatziki",
+        "ProductType": "dip",
+        "AvailableAmount": 50,
+        "Price": 1.5
+      },
+      {
+        "ProductName": "greek salad",
+        "ProductType": "salad",
+        "AvailableAmount": 40,
+        "Price": 4.0
+      },
+      {
+        "ProductName": "loukoumades",
+        "ProductType": "dessert",
+        "AvailableAmount": 30,
+        "Price": 3.5
+      }
+    ]
+  }
+  

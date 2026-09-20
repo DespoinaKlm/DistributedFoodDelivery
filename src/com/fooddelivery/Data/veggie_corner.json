@@ -1,0 +1,24 @@
+{
+    "StoreName": "VeggieCorner",
+    "Latitude": 37.9718,
+    "Longitude": 23.7354,
+    "FoodCategory": "vegetarian",
+    "Stars": 3,
+    "NoOfVotes": 34,
+    "StoreLogo": "/path/to/logo/veggie.png",
+    "Products": [
+      {
+        "ProductName": "falafel wrap",
+        "ProductType": "wrap",
+        "AvailableAmount": 70,
+        "Price": 4.5
+      },
+      {
+        "ProductName": "organic juice",
+        "ProductType": "drink",
+        "AvailableAmount": 90,
+        "Price": 2.3
+      }
+    ]
+  }
+  

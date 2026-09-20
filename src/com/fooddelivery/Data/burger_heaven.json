@@ -1,0 +1,24 @@
+{
+    "StoreName": "BurgerHeaven",
+    "Latitude": 37.9750,
+    "Longitude": 23.7430,
+    "FoodCategory": "burger",
+    "Stars": 4,
+    "NoOfVotes": 210,
+    "StoreLogo": "/path/to/logo/burger.png",
+    "Products": [
+      {
+        "ProductName": "double cheeseburger",
+        "ProductType": "burger",
+        "AvailableAmount": 85,
+        "Price": 6.9
+      },
+      {
+        "ProductName": "fries",
+        "ProductType": "side",
+        "AvailableAmount": 150,
+        "Price": 2.5
+      }
+    ]
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "StoreName": "ItalianDelight",
+    "Latitude": 37.9901,
+    "Longitude": 23.7412,
+    "FoodCategory": "italian",
+    "Stars": 5,
+    "NoOfVotes": 180,
+    "StoreLogo": "/path/to/logo/italian.png",
+    "Products": [
+      {
+        "ProductName": "carbonara",
+        "ProductType": "pasta",
+        "AvailableAmount": 60,
+        "Price": 7.5
+      },
+      {
+        "ProductName": "bruschetta",
+        "ProductType": "starter",
+        "AvailableAmount": 100,
+        "Price": 3.0
+      }
+    ]
+  }
+  

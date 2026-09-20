@@ -1,0 +1,11 @@
+*.class
+
+# IDE metadata
+.idea/
+.vscode/
+*.iml
+
+# Build output
+bin/
+out/
+build/
